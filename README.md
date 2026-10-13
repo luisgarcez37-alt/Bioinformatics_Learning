@@ -4,7 +4,7 @@ My transition into bioinformatics, computational biology and AI-driven drug disc
 
 
 
-\## About this repository
+## About this repository
 
 
 
@@ -18,7 +18,7 @@ structural bioinformatics, and computational protein design.
 
 
 
-\## Current learning
+## Current learning
 
 
 
