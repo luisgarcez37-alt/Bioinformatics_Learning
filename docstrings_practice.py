@@ -15,3 +15,19 @@ def calculate_mean(values):
     return sum(values) / len(values)
 
 help(calculate_mean)
+
+def calculate_molecular_mass(amino_acid_masses):
+    """
+    Calculate the total mass of a list of amino acids.
+
+    Parameters
+    ----------
+    amino_acid_masses : list
+        Individual amino acid masses.
+
+    Returns
+    -------
+    float
+        Sum of the supplied masses.
+    """
+    return sum(amino_acid_masses)
